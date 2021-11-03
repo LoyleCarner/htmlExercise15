@@ -1,0 +1,15 @@
+h1{
+  font-size: 80px;
+  color: rgb(129, 219, 219);
+  text-align: center;
+}
+
+.dog-gallery{
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.dog-img{
+  width: 400px;
+}
